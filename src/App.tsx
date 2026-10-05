@@ -844,7 +844,7 @@ function About({
         ["所在地", "〒287-0211 千葉県成田市所1037-12"],
         ["電話番号", "0476-37-4948"],
         ["メール", "altaicar2022@gmail.com"],
-        ["Google Maps", "[Location — To Be Added]"],
+        // ["Google Maps", "[Location — To Be Added]"],
       ]
     : [
         [
@@ -859,7 +859,7 @@ function About({
         ["Address", "〒287-0211 千葉県成田市所1037-12"],
         ["Phone", "0476-37-4948"],
         ["Email", "altaicar2022@gmail.com"],
-        ["Google Maps", "[Location — To Be Added]"],
+        // ["Google Maps", "[Location — To Be Added]"],
       ]
   const values = ja
     ? [
@@ -998,7 +998,7 @@ function About({
             <Icon name="pin" />
             <div>
               <small>{ja ? "所在地" : "ADDRESS"}</small>
-              <strong>[Company Address — To Be Added]</strong>
+              <strong>〒287-0211 千葉県成田市所1037-12</strong>
             </div>
           </div>
         </div>
