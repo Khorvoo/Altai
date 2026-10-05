@@ -464,15 +464,15 @@ function Home({
           <h1>
             {ja ? (
               <>
-                <span>自動車・自動車部品を、</span>
+                <span>自動車・自動車部品を、世界へ。</span>
                 <br />
-                世界へ。
+                
               </>
             ) : (
               <>
-                <span>Automotive Vehicles & Parts,</span>
+                <span>Automotive Vehicles & Parts, connecting Japan with the World.</span>
                 <br />
-                Connecting Japan with the World.
+                
               </>
             )}
           </h1>
