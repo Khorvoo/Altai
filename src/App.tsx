@@ -110,7 +110,7 @@ function Logo({ lang }: { lang: Lang }) {
       className="logo"
       aria-label={lang === "ja" ? "ALTAI合同会社" : "ALTAI LLC"}
     >
-      <span className="logo-mark"><img src="/Assets/Logo.jpg" alt="" /></span>
+      <span className="logo-mark"><img src="/assets/Logo.jpg" alt="logo" /></span>
       <span className="logo-type">
         <strong>ALTAI</strong>
         <small>{lang === "ja" ? "合同会社" : "LLC"}</small>
